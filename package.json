@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-counter-test",
+  "version": "1.2.0",
+  "description": "Tutorial: How to create nuxt module",
+  "main": "module.js",
+  "author": "Obada",
+  "license": "MIT"
+}
